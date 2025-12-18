@@ -20,3 +20,9 @@ There are multiple data such as csv, json, and txt. Below are the explanation fo
 8. tweetsLabeledFixed.csv: Final dataset, contains tweet_id, username, tweet_content, and tweet_label that has been adjusted and checked manually. 
 
 
+The order of this project: 
+1. Scraping dataset, file: Scraping.py
+2. Combining Scraping and Kaggle Dataset, file: CombiningDatasetAndSlangs.ipynb
+3. Labeling the data, file: SentimentLabelling.ipynb
+4. Fixing the labels, file: FixingWrongSentiment.ipynb
+5. Text Preprocessing, Text Representation, and Modelling, file: TextRepresentationAndModelling.ipynb
